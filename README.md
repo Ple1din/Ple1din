@@ -8,7 +8,7 @@ Passionate about technological innovation, focused on software development for e
 - Coordination of programming, planning, and code structuring teams.
 - Close collaboration on the strategy of the video game in development.
 - Support and mentoring team members who require technical assistance.
-- **Previous experience in high school:** Java programmer on the TecBot 3158 team. I actively participated in the successful migration of the tank chassis to a Swerve system, innovating for the first time on the team.
+- **Previous experience in high school:** Java programmer on the TecBot 3158 team. I actively participated in the successful migration of the tank chassis to a Swerve system, innovating for the first time on the team and programming autonomous schedule.
 
 ## Current Project
 
