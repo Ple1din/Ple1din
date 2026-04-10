@@ -2,6 +2,8 @@
 
 **Software Developer · Embedded Systems · Robotics · Backend**
 
+<br/>
+
 [![English B1](https://img.shields.io/badge/English-B1%20Certified-blue?style=flat-square)](.)
 [![Agile Scrum](https://img.shields.io/badge/Methodology-Agile%20Scrum-6f42c1?style=flat-square)](.)
 
@@ -73,19 +75,36 @@ Software developer focused on embedded systems, robotics, and backend engineerin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
 
 ### Databases & Data
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 | Area | Tools & Concepts |
 |------|-----------------|
 | Graph databases | Neo4j |
-| Relational databases | MySQL |
-| NLP / Semantic | Sentence Transformers, semantic search |
-| Data processing | PDF extraction, document pipelines |
+| Relational databases | MySQL, SQLite |
+| Data modeling | Joins, normalization, indexing |
+| NLP / Semantic | Sentence Transformers, text processing |
+| Data processing | PDF extraction, ETL pipelines, data transformation |
+| Data analysis | Pandas, NumPy, Matplotlib, Seaborn |
+
+---
+
+### Backend Development
+| Area | Details |
+|------|--------|
+| Framework | Django |
+| Architecture | MVC, modular design, backend/frontend separation |
+| Data handling | JSON serialization, pipeline-based systems |
+| Design | Data pipelines, structured and unstructured data processing |
+
+---
 
 ### Robotics & Embedded Systems
 | Area | Details |
@@ -96,13 +115,15 @@ Software developer focused on embedded systems, robotics, and backend engineerin
 | Integration | Hardware/software co-design |
 | Platforms | VEX Robotics, FRC (FIRST) |
 
+---
+
 ### Methodology & Leadership
 | Skill | Context |
 |-------|---------|
 | Agile Scrum | Full cycle — sprints, standups, backlog, retrospectives (ClickUp) |
 | Technical leadership | Decision-making, task delegation, mentoring |
 | Cross-functional work | Mechanical, electrical, strategy, design teams |
-| First-principles thinking | Requirement questioning, simplification, iteration acceleration |
+| Engineering mindset | First-principles thinking, system simplification, fast iteration |
 
 ---
 
@@ -111,9 +132,19 @@ Software developer focused on embedded systems, robotics, and backend engineerin
 | Language | Level |
 |----------|-------|
 | Spanish | Native |
-| English | B1 Certified |
+| English | B1 Certified · [View Certificate](https://drive.google.com/file/d/1y0hjeT8U0PzbtEn-tH23PFAvUlTZ7Q3C/view?usp=drive_link) |
 
 ---
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Ple1din&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a8dadc&icon_color=f0a500&text_color=8b8fa8&ring_color=a8dadc&hide=contribs"/>
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ple1din&layout=compact&hide_border=true&bg_color=0d1117&title_color=a8dadc&text_color=8b8fa8&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ple1din&hide_border=true&background=0d1117&ring=a8dadc&fire=f0a500&currStreakLabel=a8dadc&sideLabels=8b8fa8&dates=8b8fa8&stroke=1a1a2e"/>
+</div>
 
 ## Areas of Interest
 
@@ -122,5 +153,3 @@ Software developer focused on embedded systems, robotics, and backend engineerin
 - Robotic hardware control
 - Artificial intelligence and automation
 - Backend systems with applied AI/NLP
-
----
