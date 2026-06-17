@@ -4,7 +4,7 @@
 
 <br/>
 
-[![English B1](https://img.shields.io/badge/English-B1%20Certified-blue?style=flat-square)](.)
+[![English B2](https://img.shields.io/badge/English-B1%20Certified-blue?style=flat-square)](.)
 [![Agile Scrum](https://img.shields.io/badge/Methodology-Agile%20Scrum-6f42c1?style=flat-square)](.)
 
 ---
